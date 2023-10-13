@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Master's Student in Artificial Intelligence at the Department of Computer & System Sciences at [Stockholm University](https://www.su.se/department-of-computer-and-systems-sciences/)
+- 🔭 I’m currently working on machine learning
+- 👯 I’m looking to collaborate on exciting projects
+-  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erfan-kanani-404130203/)
