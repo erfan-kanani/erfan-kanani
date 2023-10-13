@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 I am a Master's Student in Artificial Intelligence at the Department of Computer & System Sciences at [Stockholm University](https://www.su.se/department-of-computer-and-systems-sciences/)
-- 🔭 I’m currently working on machine learning
-- 👯 I’m looking to collaborate on exciting projects
+- 🔭 I’m currently working on machine learning.
+- 👯 I’m looking to collaborate on exciting projects. If you have a machine learning project or idea you'd like to work on together, feel free to reach out. I'm open to collaboration and always excited to learn and contribute to innovative solutions.
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erfan-kanani-404130203/)
