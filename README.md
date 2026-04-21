@@ -125,21 +125,6 @@ A large-scale **claim evaluation platform** combining rules-based checks, ML mod
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=erfan-kanani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats-ten-smoky.vercel.app/?user=erfan-kanani&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-kanani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</div>
-
----
-
 ### 🌱 Currently Exploring
 
 - 🧩 Advanced agentic patterns — **MCP servers**, multi-agent orchestration, tool-use evals
